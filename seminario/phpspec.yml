@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: seminario
+        psr4_prefix: seminario
+        src_path: app
